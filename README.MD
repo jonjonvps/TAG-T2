@@ -7,7 +7,9 @@
 ## Turma A - 1/2020
 ## Prof. Díbio
 
-# Alunos: Vinicius da Silva Rocha 18/0028804 e João Victor Pinheiro de Souza 18/0103407
+Alunos: 
+Vinicius da Silva Rocha 18/0028804  
+João Victor Pinheiro de Souza 18/0103407
 
 Este projeto visa analisar possíveis caminhos críticos (CPM) das disciplinas do seu curso na UnB. Para
 isso deve ser construído um grafo direcionado acíclico (DAG) das disciplinas obrigatórias do curso (32
