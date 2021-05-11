@@ -7,10 +7,7 @@
 ## Turma A - 1/2020
 ## Prof. Díbio
 
-## Alunos:
-
-Vinicius da Silva Rocha 18/0028804
-João Victor Pinheiro de Souza 18/0103407
+# Alunos: Vinicius da Silva Rocha 18/0028804 e João Victor Pinheiro de Souza 18/0103407
 
 Este projeto visa analisar possíveis caminhos críticos (CPM) das disciplinas do seu curso na UnB. Para
 isso deve ser construído um grafo direcionado acíclico (DAG) das disciplinas obrigatórias do curso (32
@@ -39,10 +36,13 @@ No terminal vai aparecer um menu interativo, onde vai aparecer 4 opções:
 
 Opção 1 :
     Vai gerar um .png do grafo das materias, e vai aparecer na terminal seu codigo, nome e peso.
+
 Opção 2 :
     Vai gerar um .png do grafo da ordenação topologica, e vai aparecer na terminal o codigo e nome das materias.
+
 Opção 3 :
     Vai gerar as 3 imagens dos caminhos criticos, e vai aparecer no terminal o codigo, peso e peso total.
+
 Opção -1 : Onde ele termina a execução do programa.
 
 # Observacao:
